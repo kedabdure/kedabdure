@@ -1,8 +1,8 @@
 <div align="center">
   <h1>👋 Abdurehim Kedir</h1>
-  <h3 class="animate-pulse">Fullstack Developer | Next.js Specialist | 3D Web Innovator</h3>
+  <h3 class="animate-pulse">Fullstack Developer</h3>
   <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=6366F1&center=true&width=600&lines=Building+scalable+web+applications;Specializing+in+modern+frontend+architectures" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=6366F1&center=true&width=600&lines=Building+reliable+web+solutions;Focused+on+clean+and+user-friendly+designs" alt="Typing SVG" />
 </div>
 </div>
 
@@ -10,11 +10,11 @@
 
 ## About Me
 
-I'm a **Fullstack Developer** passionate about crafting high-performance, user-centric web applications. Specializing in **Next.js** for SEO-optimized frontends and **Three.js** for immersive 3D experiences, I deliver scalable solutions backed by robust backend systems. I'm an active open-source contributor, prioritizing clean, maintainable code.
+I'm a **Fullstack Developer** focused on building reliable, user-friendly web applications. I enjoy creating responsive, efficient solutions that offer smooth and meaningful experiences for users. I care about writing clean, maintainable code and continuously improving through collaboration and learning.
 
-- <span class="animate-bounce inline-block">**Mission**</span>: Transform ideas into seamless digital experiences.
-- <span class="animate-bounce inline-block">**Approach**</span>: Blend creativity with technical precision.
-- <span class="animate-bounce inline-block">**Impact**</span>: Empower communities through open-source contributions.
+- <span class="animate-bounce inline-block">**Mission**</span>: Turn ideas into practical, effective digital products.
+- <span class="animate-bounce inline-block">**Approach**</span>: Combine thoughtful design with solid development practices.
+- <span class="animate-bounce inline-block">**Impact**</span>: Contribute to projects that help people and make a positive difference.
 
 ---
 
@@ -34,17 +34,38 @@ I'm a **Fullstack Developer** passionate about crafting high-performance, user-c
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 
-### Databases & DevOps
+### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
+
+### DevOps
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
+![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion)
+![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
+
 
 ---
 
@@ -62,28 +83,12 @@ I'm a **Fullstack Developer** passionate about crafting high-performance, user-c
 
 ## 🏆 Portfolio & Projects
 
-Explore my work through my [portfolio](https://yourportfolio.com) or check out these highlighted projects:
+Explore my work through my [portfolio](https://3d-portfolio-one-sigma.vercel.app/) or check out these highlighted projects:
 
-- **[Maerif Staffing Agency](https://maerifstaffingagency.com)**: A Next.js-powered platform for streamlined recruitment and staffing solutions, featuring dynamic UI and seamless backend integration.
-- **[Dewa Clinic](https://dewaclinic.com)**: A healthcare website built with React and Tailwind CSS, offering an intuitive interface for patient services and appointments.
-- **[Green Cycle](https://github.com/kedabdure/green-cycle)**: An open-source sustainability project using Django and PostgreSQL to promote eco-friendly initiatives.
-- **[Addis Interior](https://addisinterior.com)**: A visually stunning interior design portfolio developed with Next.js and Three.js for immersive 3D showcases.
-
----
-
-## 🎯 Current Focus
-
-- **3D Web**: Mastering **Three.js** and **WebGL** for immersive interfaces.
-- **Microservices**: Architecting scalable systems with **Node.js** and **Docker**.
-- **Open Source**: Contributing to high-impact community projects.
-
----
-
-## 🌍 Contributions
-
-- **Open Source**: Contributor to [Next.js](https://github.com/vercel/next.js) and [Three.js](https://github.com/mrdoob/three.js), focusing on performance enhancements.
-- **Community**: Mentor at coding bootcamps, guiding aspiring developers.
-- **Tools**: Developed a Next.js VS Code extension with 10,000+ downloads.
+- **[Maerif Staffing Agency](https://maerifstaffingagency.com)**: A Next.js frontend and Node.js backend powered platform for streamlined recruitment and staffing solutions, featuring dynamic UI and seamless backend integration.
+- **[Dewa Clinic](https://dewaclinic.com)**: A healthcare website built with Next js and Tailwind CSS, offering an intuitive interface for patient services and appointments.
+- **[Green Cycle](https://online-shop-three-weld.vercel.app)**: An open-source sustainability project using Nextjs and Mongodb to promote eco-friendly initiatives.
+- **[Addis Interior](https://addis-interiors.vercel.app)**: A visually stunning interior design portfolio developed with Next.js and Three.js for immersive 3D showcases.
 
 ---
 
@@ -93,16 +98,13 @@ Explore my work through my [portfolio](https://yourportfolio.com) or check out t
   <a href="mailto:abdurehimk77@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/abdureim-kedir">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://wa.me/yourwhatsappnumber">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://3d-portfolio-one-sigma.vercel.app">
     <img src="https://img.shields.io/badge/-Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </div>
