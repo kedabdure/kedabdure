@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Abdurehim Kedir</h1>
-  <h3>Fullstack Developer | Next.js Specialist | 3D Web Innovator</h3>
+  <h3 class="animate-pulse">Fullstack Developer | Next.js Specialist | 3D Web Innovator</h3>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=22&pause=800&color=00D4FF¢er=true&vCenter=true&width=550&lines=Building+scalable+web+apps;Creating+immersive+3D+experiences;Driving+innovation+with+clean+code" alt="Typing SVG" />
   </a>
@@ -10,11 +10,11 @@
 
 ## About Me
 
-I'm a **Fullstack Developer** passionate about crafting high-performance, user-centric web applications. With expertise in **Next.js** for SEO-optimized frontends and **Three.js** for immersive 3D experiences, I deliver scalable solutions backed by robust backend systems. I'm an active open-source contributor, prioritizing clean, maintainable code.
+I'm a **Fullstack Developer** passionate about crafting high-performance, user-centric web applications. Specializing in **Next.js** for SEO-optimized frontends and **Three.js** for immersive 3D experiences, I deliver scalable solutions backed by robust backend systems. I'm an active open-source contributor, prioritizing clean, maintainable code.
 
-- **Mission**: Transform ideas into seamless digital experiences.
-- **Approach**: Blend creativity with technical precision.
-- **Impact**: Empower communities through open-source contributions.
+- <span class="animate-bounce inline-block">**Mission**</span>: Transform ideas into seamless digital experiences.
+- <span class="animate-bounce inline-block">**Approach**</span>: Blend creativity with technical precision.
+- <span class="animate-bounce inline-block">**Impact**</span>: Empower communities through open-source contributions.
 
 ---
 
@@ -60,11 +60,14 @@ I'm a **Fullstack Developer** passionate about crafting high-performance, user-c
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Portfolio & Projects
 
-- **[3D Portfolio](https://yourportfolio.com)**: Interactive 3D web experience built with Next.js and Three.js, showcasing creative and technical skills.
-- **[E-Commerce Platform](https://yourecommerce.com)**: Scalable fullstack app using Next.js, GraphQL, and MongoDB, optimized for performance.
-- **[CLI Tool](https://github.com/kedabdure/cli-tool)**: Python-based developer tool with 500+ GitHub stars, streamlining workflows.
+Explore my work through my [portfolio](https://yourportfolio.com) or check out these highlighted projects:
+
+- **[Maerif Staffing Agency](https://maerifstaffingagency.com)**: A Next.js-powered platform for streamlined recruitment and staffing solutions, featuring dynamic UI and seamless backend integration.
+- **[Dewa Clinic](https://dewaclinic.com)**: A healthcare website built with React and Tailwind CSS, offering an intuitive interface for patient services and appointments.
+- **[Green Cycle](https://github.com/kedabdure/green-cycle)**: An open-source sustainability project using Django and PostgreSQL to promote eco-friendly initiatives.
+- **[Addis Interior](https://addisinterior.com)**: A visually stunning interior design portfolio developed with Next.js and Three.js for immersive 3D showcases.
 
 ---
 
@@ -78,9 +81,9 @@ I'm a **Fullstack Developer** passionate about crafting high-performance, user-c
 
 ## 🌍 Contributions
 
-- **Open Source**: Regular contributor to [Next.js](https://github.com/vercel/next.js) and [Three.js](https://github.com/mrdoob/three.js).
-- **Community**: Mentor at coding bootcamps, guiding new developers.
-- **Tools**: Built a Next.js VS Code extension with 10,000+ downloads.
+- **Open Source**: Contributor to [Next.js](https://github.com/vercel/next.js) and [Three.js](https://github.com/mrdoob/three.js), focusing on performance enhancements.
+- **Community**: Mentor at coding bootcamps, guiding aspiring developers.
+- **Tools**: Developed a Next.js VS Code extension with 10,000+ downloads.
 
 ---
 
@@ -95,6 +98,9 @@ I'm a **Fullstack Developer** passionate about crafting high-performance, user-c
   </a>
   <a href="https://twitter.com/yourhandle">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://wa.me/yourwhatsappnumber">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/-Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white" />
