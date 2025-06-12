@@ -101,7 +101,7 @@ Explore my work through my [portfolio](https://3d-portfolio-one-sigma.vercel.app
   <a href="https://www.linkedin.com/in/abdureim-kedir">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/yourwhatsappnumber">
+  <a href="https://wa.me/+251953431572">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://3d-portfolio-one-sigma.vercel.app">
