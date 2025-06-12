@@ -1,9 +1,9 @@
 <div align="center">
   <h1>👋 Abdurehim Kedir</h1>
   <h3 class="animate-pulse">Fullstack Developer | Next.js Specialist | 3D Web Innovator</h3>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=22&pause=800&color=00D4FF¢er=true&vCenter=true&width=550&lines=Building+scalable+web+apps;Creating+immersive+3D+experiences;Driving+innovation+with+clean+code" alt="Typing SVG" />
-  </a>
+  <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=6366F1&center=true&width=600&lines=Building+scalable+web+applications;Specializing+in+modern+frontend+architectures" alt="Typing SVG" />
+</div>
 </div>
 
 ---
